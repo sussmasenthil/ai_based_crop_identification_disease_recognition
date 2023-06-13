@@ -1,5 +1,4 @@
-# ai_based_crop_identification_disease_recognition
-Crop Image Prediction and Disease Recognition Mobile Application
+# Crop Image Prediction and Disease Recognition Mobile Application
 
 This GitHub project showcases a mobile application developed using the Flutter framework, enabling deployment on both Android and iOS platforms. The primary functionality of this application is to predict the crop type from images captured by the device's camera or selected from the image gallery. Additionally, it provides disease recognition capabilities for crop images.
 
