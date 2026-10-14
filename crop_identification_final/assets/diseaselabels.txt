@@ -1,0 +1,5 @@
+Cotton - Angular spot disease
+Maize - Common_rust
+Maize - Gray_leaf_spot
+Maize - Northern_Leaf_Blight
+Pepper - Bacterial_spot
